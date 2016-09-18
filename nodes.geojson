@@ -35,7 +35,8 @@
 	{"geometry":
 		{"type":"Point",
 		"coordinates":[33.9432,-84.318]
-		}
+		},
+		"type":"Feature"
 	}
 
 	]
