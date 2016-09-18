@@ -9,10 +9,23 @@
 		"type":"Feature",
 		"id":0,
 		"properties":{
-			"node":"A",
-			"foo":"barbar"
+			"ip":"127.0.0.1",
+			"role":"miner"
+		}
+		
+	},
+	{"geometry":
+		{"type":"Point",
+		"coordinates":[42.7,23.3333]
+		},
+		"type":"Feature",
+		"id":1,
+		"properties":{
+			"ip":"192.168.0.1",
+			"role":"exchange"
 		}
 		
 	}
+
 	]
 }
