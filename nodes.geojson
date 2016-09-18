@@ -1,3 +1,18 @@
 {"type":"FeatureCollection",
-"features":[ { "geometry": {"type": "Point", "coordinates": [[60.1641,24.7136]]} } ]
+
+	"features":[
+
+	{"geometry":
+		{"type":"Point",
+		"coordinates":[60.1641,24.7136]
+		},
+		"type":"Feature",
+		"id":0,
+		"properties":{
+			"node":"A",
+			"foo":"barbar"
+		}
+		
+	}
+	]
 }
