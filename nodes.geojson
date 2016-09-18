@@ -24,7 +24,13 @@
 			"ip":"192.168.0.1",
 			"role":"exchange"
 		}
-		
+	},
+	{"geometry":
+		{"type":"Point",
+		"coordinates":[33.8719,35.5097]
+		},
+		"type":"Feature",
+		"id":1
 	}
 
 	]
