@@ -1,4 +1,4 @@
 {"type": "Featurecollection", "features": [
-	{"geometry": "type": "Feature", {"type":"Point","coordinates": [24.7136, 60.1641]}} 
+	{"geometry": {"type":"Point","coordinates": [24.7136, 60.1641]}, "type": "Feature"} 
 ]
 }
