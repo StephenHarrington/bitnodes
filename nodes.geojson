@@ -31,6 +31,11 @@
 		},
 		"type":"Feature",
 		"id":1
+	},
+	{"geometry":
+		{"type":"Point",
+		"coordinates":[33.9432,-84.318]
+		}
 	}
 
 	]
